@@ -1,0 +1,29 @@
+.main {
+ font-family: 'Share Tech Mono', monospace; 
+ color: #4b0082;
+ font-size: 100px;
+ }
+
+.detail {
+ font-family: 'Voltaire', sans-serif;
+ color: #7700cc; 
+ font-size: 100px;
+}
+
+a, 
+.links {
+ font-size: 15pt;
+ color:#1e0033;
+ font-family: 'Karla', sans-serif;
+ display: flex;
+ justify-content: space-evenly;
+ /* text-shadow: 0px 5px 2px rgba(255, 255, 255, 1); */
+}
+
+.header {
+ background: linear-gradient(to right, #ff0000 0%, #33ccff 33%, #33cc33 66%, #7c411f 100%)
+}
+
+
+
+
