@@ -1,6 +1,6 @@
 .main {
  font-family: 'Share Tech Mono', monospace; 
- color: #4b0082;
+ color: #350358;
  font-size: 100px;
  }
 
@@ -21,7 +21,7 @@ a,
 }
 
 .header {
- background: linear-gradient(to right, #ff0000 0%, #33ccff 33%, #33cc33 66%, #7c411f 100%)
+ background: linear-gradient(to right, #b4500d 0%, #1d9cc7 33%, #9eb2e2 66%, #33cc33 100%)
 }
 
 
