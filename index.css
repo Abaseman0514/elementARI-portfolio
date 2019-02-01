@@ -27,6 +27,26 @@ a,
  background: linear-gradient(to right, #B83F0A 0%, #055D96 33%, #74ADE4 66%, #6CA12C 100%)
 }
 
+.summary {
+ width: 40%;
+ text-align: left;
+ margin-left: 2rem;
+ font-size: 20px;
+}
+
+p:first-letter {
+ float: left;
+ font-size: 80px;
+ line-height: 1;
+ font-weight: bold;
+ margin-right: 9px;
+ color: #7700cc;
+}
+
+.background {
+float: right;
+ margin-top: -150px;
+}
 
 
 
