@@ -28,10 +28,10 @@
 }
 
 .summary {
- width: 40%;
+ width: 60%;
  text-align: left;
  margin-left: 2rem;
- font-size: 20px;
+ font-size: 25px;
 }
 
 .summary:first-letter {
@@ -43,13 +43,40 @@
  color: #7700cc;
 }
 
-.background {
-float: right;
- margin-top: -150px;
+.contact {
+ text-align: center;
 }
 
-.bubble {
-float: right; 
-margin-top: -150px;
+.contactBlock {
+ padding-top: 20px;
+width: 50%;
 }
+
+.background {
+float: right;
+ margin-top: -200px;
+}
+
+.bubbleAir {
+float: right; 
+margin-top: -200px;
+margin-right: 2rem;
+}
+
+.bubbleWater {
+ float: right;
+ margin-right: 2rem;
+}
+
+.bubbleEarth {
+ float: right;
+ margin-right: 2rem;
+}
+
+.bubbleFire {
+ float: right;
+ margin-right: 2rem;
+ margin-top: -270px;
+}
+
 
