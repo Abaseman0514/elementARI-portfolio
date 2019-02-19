@@ -27,11 +27,29 @@
  width: 100%;
 }
 
-.summary {
+.summaryMain {
  width: 60%;
  text-align: left;
  margin-left: 2rem;
  font-size: 25px;
+ line-height: 50px;
+}
+
+.summaryMain:first-letter {
+ float: left;
+ font-size: 80px;
+ line-height: 1;
+ font-weight: bold;
+ margin-right: 9px;
+ color: #7700cc;
+}
+
+.summary{
+ width: 70%;
+ text-align: left;
+ margin-left: 2rem;
+ font-size: 25px;
+ line-height: 50px;
 }
 
 .summary:first-letter {
@@ -54,12 +72,12 @@ width: 50%;
 
 .background {
 float: right;
- margin-top: -200px;
+ margin-top: -430px;
 }
 
 .bubbleAir {
 float: right; 
-margin-top: -200px;
+margin-top: -430px;
 margin-right: 2rem;
 }
 
