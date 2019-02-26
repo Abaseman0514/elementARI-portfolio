@@ -98,6 +98,19 @@ margin-right: 2rem;
 }
 
 @media only screen and (max-width: 480px) {
+ .main {
+  font-size: 30px;
+  }
+ 
+ .detail {
+  font-size: 30px;
+ }
+ 
+ .links,
+ #links {
+  font-size: 12pt;
+ }
+
  .summaryMain {
   width: 100%;
   margin-left: 1rem;
@@ -128,15 +141,14 @@ margin-right: 2rem;
  }
  
  .background {
-display: flex;
-align-items: end;
-height: 100px;
-width:100px;
+text-align: center;
+margin-top: 0;
+
  }
  
  .bubbleAir {
- float: right; 
- margin-top: -830px;
+ /* float: right;  */
+ /* margin-top: -830px; */
  margin-right: 2rem;
  }
  
